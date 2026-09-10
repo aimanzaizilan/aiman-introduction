@@ -61,20 +61,20 @@ export function Header() {
           {/* Social Links */}
           <div className="hidden md:flex items-center space-x-4">
             <a
-              href="https://github.com/konkemaphisa"
+              href="https://github.com/aimanzaizilan"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Github className="w-5 h-5 hover:text-primary transition-colors" />
             </a>
             <a
-              href="https://www.linkedin.com/in/konke-maphisa-92bb11250"
+              href="https://www.linkedin.com/in/aimanzaizilan"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Linkedin className="w-5 h-5 hover:text-primary transition-colors" />
             </a>
-            <a href="mailto:maphisakonke@gmail.com">
+            <a href="mailto:aimanzaizilan@gmail.com">
               <Mail className="w-5 h-5 hover:text-primary transition-colors" />
             </a>
           </div>
